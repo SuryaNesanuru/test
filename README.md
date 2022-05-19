@@ -1,1 +1,2 @@
-# test repo for git commamds demonstration
+# test
+test repo for git commamds demonstration
